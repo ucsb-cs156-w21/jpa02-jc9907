@@ -1,49 +1,28 @@
-# STARTER-jpa02
+# jpa02-jc9907
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa02` above
-  to match the name of your repo, i. e., `lab02-yourgithubid`, then delete
-  this TODO item.
+On Github: https://ucsb-cs156-w21/jpa02-jc9907
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f20/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f20/STARTER-jpa02
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-f20-jpa02-cgaucho.herokuapp.com
+On Heroku: https://cs156-w21-jpa02-jc9907.herokuapp.com
 
 
-On Heroku: https://cs156-f20-jpa02-cgaucho.herokuapp.com
-
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-cgaucho
-
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-jc9907
 
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
 
-
 # What can you do with this code?
 
-| Command | What it does   |
-|----------|---------------------------------------|
-| `mvn compile` | Should result in a clean compile |
-| `mvn test` | Runs JUnit tests on the code base |
-| `mvn test jacoco:report` | Runs JUnit tests, and if all tests pass, computes code coverage.  The code coverage report (Jacoco) can be found in `target/site/jacoco/index.html` |
-| `mvn test org.pitest:pitest-maven:mutationCoverage` | Runs JUnit tests, and if all tests pass, runs pit (pitest.org) mutation testing to measure effectivness of test suite |
-| `mvn package` | Builds the jar file `target/gs-spring-boot-0.1.0.jar` |
-| `mvn spring-boot:run` | Runs the code to startup a web server.  Access it via `http://localhost:8080` on the *same machine* where the server is running.  Use CTRL/C to stop it. |
-| `java -cp target/hello-1.0.0.jar edu.ucsb.cs156.spring.hello.Application` | If done after `mvn package`, runs the code to startup a web server.  |
-| `java -jar target/hello-1.0.0.jar | If done after `mvn package`, this is another way to start up the web server.|
+| Command                                                                                                          | What it does                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `mvn compile`                                                                                                    | Should result in a clean compile                                                                                                                         |
+| `mvn test`                                                                                                       | Runs JUnit tests on the code base                                                                                                                        |
+| `mvn test jacoco:report`                                                                                         | Runs JUnit tests, and if all tests pass, computes code coverage.  The code coverage report (Jacoco) can be found in `target/site/jacoco/index.html`      |
+| `mvn test org.pitest:pitest-maven:mutationCoverage`                                                              | Runs JUnit tests, and if all tests pass, runs pit (pitest.org) mutation testing to measure effectivness of test suite                                    |
+| `mvn package`                                                                                                    | Builds the jar file `target/gs-spring-boot-0.1.0.jar`                                                                                                    |
+| `mvn spring-boot:run`                                                                                            | Runs the code to startup a web server.  Access it via `http://localhost:8080` on the *same machine* where the server is running.  Use CTRL/C to stop it. |
+| `java -cp target/hello-1.0.0.jar edu.ucsb.cs156.spring.hello.Application`                                        | If done after `mvn package`, runs the code to startup a web server.                                                                                      |
+| `java -jar target/hello-1.0.0.jar | If done after `mvn package`, this is another way to start up the web server. |
 
 
 # Sources
