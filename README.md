@@ -2,7 +2,7 @@
 
 On Github: https://ucsb-cs156-w21/jpa02-jc9907
 
-On Heroku: https://cs156-w21-jpa02-jc9907.herokuapp.com
+On Heroku:  https://jpa02-jc9907.herokuapp.com/
 
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-jc9907
